@@ -1,5 +1,5 @@
 ---
-description: V1.0 June 11, 2024
+description: V1.1 October 23, 2024
 ---
 
 # METI Data Privacy Policy
@@ -33,7 +33,7 @@ MillPont will not collect or use information for purposes other than those descr
 MillPont uses your data to:
 
 * **Service Provision and Technical Function**: Provide, maintain, and improve the METI services tailored to environmental market needs.
-* **Data Reporting:** Aggregate and anonymize data to report total number of Spatiotemporal Claim Identifiers (SCIDs), affiliated acres, and Environmental Attribute Certificates (EACs).&#x20;
+* **Data Reporting:** Aggregate and anonymize data to report total number of Secure Source Identifiers (SSIDs), affiliated hectares, and outcomes tied to Environmental Attribute Certificates (EACs).&#x20;
 * **Enhance User Experience:** Improve your experience of METI services ensuring relevant information and services are offered.
 * **Communication**: Communicate with you about service updates, educational content, offers, and important notifications related to METI services.&#x20;
 * **Data Security and Safety:** Detect, prevent, or otherwise address fraud, security or technical issues; or protect against harm the rights, property, safety of MillPont, our users and or the public as required or permitted by law.
@@ -59,18 +59,18 @@ MillPont employs robust security measures, including:
 
 Despite our efforts, no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  In the even of a security incident, we will notify our clients or end-user customers in accordance with applicable law.
 
-## 8. Enhanced Privacy Protection for Geographic Farmer Data
+## 8. Enhanced Privacy Protection for Geospatial Farmer Data
 
-MillPont recognizes the sensitive nature of geographic data related to agricultural activities. To ensure the utmost privacy and protection of this information, we implement the following specialized measures:
+MillPont recognizes the sensitive nature of geospatial data related to agricultural activities. To ensure the utmost privacy and protection of this information, we implement the following specialized measures:
 
-* **Advanced Encryption**: All geographic data is encrypted using state-of-the-art encryption techniques, both in transit and at rest, to prevent unauthorized access.
-* **Restricted Access:** Access to geographic data is strictly controlled and limited to authorized personnel only. We employ rigorous access controls and monitoring systems to prevent unauthorized data access and breaches.
-* **Anonymization Protocols**: Before any geographic data is used for analysis or shared with partners, it is anonymized via one-way hash algorithms to remove any identifiers that could link it back to individual farmers or specific locations.
-* **Geographic Data Masking:** To further protect farmer privacy, we employ data masking techniques, obscuring sensitive geographic details where necessary.
-* **Transparency and Control**: Users have full control over their geographic data. They can access, review, update, or request deletion of their data at any time. We also provide detailed logs of data access and usage upon request.
-* **Terms of Use:** The METI Terms of Use recognizes farmer’s rights over their data. Users of METI are required to maintain, and upon request, provide detailed documentation that demonstrates their ability to manage geographic farmer data. This is essential for maintaining trust, legal compliance, and the integrity of our platform.
+* **Advanced Encryption**: All geospatial data is encrypted using state-of-the-art encryption techniques, both in transit and at rest, to prevent unauthorized access.
+* **Restricted Access:** Access to geospatial data is strictly controlled and limited to authorized personnel only. We employ rigorous access controls and monitoring systems to prevent unauthorized data access and breaches.
+* **Anonymization Protocols**: Before any geospatial data is used for analysis or shared with partners, it is anonymized via one-way hash algorithms to remove any identifiers that could link it back to individual farmers or specific locations.
+* **Geospatial Data Masking:** To further protect farmer privacy, we employ data masking techniques, obscuring sensitive geospatial details where necessary.
+* **Transparency and Control**: Users have full control over their geospatial data. They can access, review, update, or request deletion of their data at any time. We also provide detailed logs of data access and usage upon request.
+* **Terms of Use:** The METI Terms of Use recognizes farmer’s rights over their data. Users of METI are required to maintain, and upon request, provide detailed documentation that demonstrates their ability to manage geospatial farmer data. This is essential for maintaining trust, legal compliance, and the integrity of our platform.
 
-By implementing these measures, MillPont ensures that market participant's geographic data is handled with the highest level of security and confidentiality, reflecting our commitment to protecting the privacy and interests of our agricultural community.
+By implementing these measures, MillPont ensures that market participant's geospatial data is handled with the highest level of security and confidentiality, reflecting our commitment to protecting the privacy and interests of our agricultural community.
 
 ## 9. Your Rights and Choices
 
