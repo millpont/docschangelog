@@ -7,5 +7,5 @@
 * [METI Originate Fact Sheet](operative-documents/meti-originate-fact-sheet.md)
 * [METI Originate Pricing Calculator](operative-documents/meti-originate-pricing-calculator.md)
 * [METI Originate QC Requirements & Protocol](operative-documents/meti-originate-qc-requirements-and-protocol.md)
-* [METI Fee Schedule](operative-documents/meti-fee-schedule.md)
+* [METI Originate Pricing](operative-documents/meti-originate-pricing.md)
 * [METI Rulebook (COMING SOON)](operative-documents/meti-rulebook-coming-soon.md)
