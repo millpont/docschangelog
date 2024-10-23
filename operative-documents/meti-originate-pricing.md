@@ -2,9 +2,13 @@
 
 Annual Subscription Plans & Fees are based on the \*quantity (or anticipated quantity) of a Custodian’s Sources under management, and are structured as follows:&#x20;
 
-<table><thead><tr><th width="164">Tier</th><th width="194">Annual Subscription</th><th width="220">Includes</th><th>Additional Usage</th></tr></thead><tbody><tr><td>Basic</td><td>$1,800 </td><td><p>4-Month Free Trial,</p><p>100 Secure Source IDs</p></td><td>$2.00 per source</td></tr><tr><td>Standard </td><td>$10,750</td><td>15,000 Secure Source IDs, API Access</td><td>$0.30 per source</td></tr><tr><td>Enterprise</td><td>$32,250</td><td>95,000 Secure Source IDs, API Access, Advisory Support</td><td><em>Negotiable rates based on volumes and utilization</em> </td></tr></tbody></table>
+<table><thead><tr><th width="164">Plan</th><th>Basic</th><th>Standard</th><th>Enterprise</th></tr></thead><tbody><tr><td><strong>Description</strong></td><td>Ideal for Small Projects &#x26; Pilots </td><td>Designed for Growing Businesses </td><td>Built for High-Volume Registries &#x26; Marketplaces</td></tr><tr><td><strong>Annual Subscription</strong></td><td>$1,800 </td><td>$10,750</td><td>$32,250</td></tr><tr><td><strong>Includes</strong></td><td>100 Secure Source IDs</td><td>15,000 Secure Source IDs, API Access</td><td>95,000 Secure Source IDs</td></tr><tr><td><strong>Additional Usage</strong></td><td>$2.00 per source </td><td>$0.30 per source </td><td><em>Negotiable rates based on volumes and utilization</em> </td></tr></tbody></table>
 
 \*_If usage scales, consider upgrading to a higher tier to benefit from lower unit costs and additional features like API access and advisory support._&#x20;
+
+Explore the **METI Pricing Calculator** to find the tier that best fits your needs. Simply input your project's details to receive a tailored recommendation based on your expected usage.
+
+{% file src="../.gitbook/assets/METI_Pricing_Calculator (1).xlsx" %}
 
 ## Source Definition  &#x20;
 
