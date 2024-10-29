@@ -2,7 +2,7 @@
 description: V1.0 July 2, 2024
 ---
 
-# METI Terms of Use
+# Terms of Use
 
 ## **1. Introduction**
 

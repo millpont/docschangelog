@@ -1,4 +1,4 @@
-# METI Rulebook (COMING SOON)
+# Source Rulebook (COMING SOON)
 
 ## METI Governance Committee
 

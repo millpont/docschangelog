@@ -2,7 +2,7 @@
 description: V1.0 July 2, 2024
 ---
 
-# METI Originate QC Requirements & Protocol
+# QC Requirements & Protocol
 
 ## 1. **Introduction**
 

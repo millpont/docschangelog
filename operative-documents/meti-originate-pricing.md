@@ -1,4 +1,4 @@
-# METI Originate Pricing
+# Membership Fee Schedule
 
 Annual Subscription Plans & Fees are based on the \*quantity (or anticipated quantity) of a Custodian’s Sources under management, and are structured as follows:&#x20;
 
