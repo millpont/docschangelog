@@ -15,7 +15,7 @@ METI offers foundational services to support secure environmental claims in agri
 
 ## **What is METI’s business model?**
 
-METI operates a membership-based program, METI Originate, with [options](meti-originate-pricing.md) suited for a range of organizational structures and scales:
+MillPont operates a membership-based program, METI Originate, with [options](meti-originate-pricing.md) suited for a range of organizational structures and scales:
 
 * **Basic:** Ideal for small projects and pilots, offering 100 secure sources per year, with an option to add more at a per-source fee.
 * **Standard:** For growing businesses, including 15,000 secure sources and API access with scalable fees for additional sources.
