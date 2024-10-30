@@ -23,11 +23,11 @@ MillPont operates a membership-based program, METI Originate, with [options](met
 
 ## What data does METI store, and what measures does it take to protect data?
 
-METI stores essential metadata related to the [Source](meti-originate-fact-sheet.md#what-are-secure-source-ids-ssids) of environmental benefits, such as the geospatial and temporal extent of a project claim (e.g., an agricultural project from 2020 to 2030). Each source is unique per environmental attribute (e.g., carbon, biodiversity), mitigating duplicated assets. METI only stores data needed for uniqueness and provenance, preserving privacy and competitive information, while promoting transparency with easy validation and verification.&#x20;
+METI stores essential metadata related to the [Source](meti-originate-fact-sheet.md#what-are-secure-source-ids-ssids) of environmental benefits, such as the geospatial and temporal extent of a project claim (e.g., a field from an agricultural project from 2020 to 2030). Each source is unique per environmental attribute (e.g., carbon, biodiversity), mitigating duplicated assets. METI only stores data needed for uniqueness and provenance, preserving privacy and competitive information, while promoting transparency with easy validation and verification.&#x20;
 
-To safeguard and handle data, METI has developed proprietary applications of  [Fully Homomorphic Encryption (FHE)](https://csrc.nist.gov/Presentations/2023/stppa6-iso-iec-fhe), an advanced encryption technology allowing computations on encrypted data without exposing  [Personally Identifiable Information (PII)](https://www.nrcs.usda.gov/sites/default/files/2022-10/Safeguarding\_PII\_Fact\_Sheet\_Fillable\_1\_3\_22.pdf). This means that METI can securely process and validate environmental claims without compromising individual privacy or disclosing sensitive project information. By using advanced encryption, METI maintains data integrity and transparency for verification while ensuring that personal and location-specific details remain protected and private.
+To safeguard and handle data, MillPont has developed proprietary applications of  [Fully Homomorphic Encryption (FHE)](https://csrc.nist.gov/Presentations/2023/stppa6-iso-iec-fhe), an advanced encryption technology allowing computations on encrypted data without exposing  [Personally Identifiable Information (PII)](https://www.nrcs.usda.gov/sites/default/files/2022-10/Safeguarding\_PII\_Fact\_Sheet\_Fillable\_1\_3\_22.pdf). This means that METI can securely process and validate environmental claims without compromising individual privacy or disclosing sensitive project information. By using advanced encryption, METI maintains data integrity and transparency for verification while ensuring that personal and location-specific details remain protected and private.
 
-Additionally, METI’s pursuit of SOC 2 compliance underscores its commitment to industry-leading standards in data security and privacy management.
+Additionally, MillPont’s pursuit of SOC 2 compliance underscores its commitment to industry-leading standards in data security and privacy management.
 
 ## If I am already using blockchain, do I need to use METI Originate?
 
@@ -47,7 +47,7 @@ EACs are market instruments that represent the intangible property rights to cla
 
 ## What is METI’s long-term vision for agricultural climate markets?
 
-METI aims to create resilient infrastructure that fosters institutional investment, supports market innovation, and enables scalable and future-regulated environments. By engaging early with agricultural market participants, METI supports a system that can evolve similarly to support  the scale for regulated markets such as commodities, equities, and interest rate products. This scalable infrastructure positions METI to meet the increasing accountability demands in global agricultural climate markets linked to insets, biofuels, climate-smart commodities and offsets, .
+MillPont is building resilient infrastructure designed to attract institutional investment, drive market innovation, and enable scalable, regulation-ready environments. By proactively engaging with agricultural market participants and regulators, METI is developing a system that can evolve to support the scale and rigor of regulated markets like commodities, equities, and interest rates. This adaptable, scalable infrastructure uniquely positions METI to meet the rising accountability standards in global agricultural climate markets, including insets, biofuels, climate-smart commodities, and offsets.
 
 ## Why do we need agricultural climate markets?
 
