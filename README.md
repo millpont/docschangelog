@@ -2,13 +2,13 @@
 description: V1.1 October 23, 2024
 ---
 
-# METI Data Privacy Policy
+# Data Privacy Policy
 
-## 1. Introduction &#x20;
+## 1. INTRODUCTION
 
 Welcome to the privacy policy of MillPont's Environmental Trust Infrastructure (METI). This policy outlines how we collect, use, store, and protect data. MillPont is committed to maintaining the trust and confidence of our users, especially in the agricultural sector, where data sensitivity is paramount.
 
-## 2. Types of Information We Collect
+## 2. TYPES OF INFORMATION WE COLLECT
 
 MillPont collects various types of data to provide and enhance our services:
 
@@ -18,17 +18,17 @@ MillPont collects various types of data to provide and enhance our services:
 4. **Attributes and Quantities:** Describes specific attributes and quantities of environmental claims, ensuring accurate and reliable accounting and reporting.
 5. **Verification and Certification Information:** Includes verification and certification details, maintaining credibility and trustworthiness of environmental claims through secure and confidential handling.
 
-## 3. How We Collect Your Data
+## 3. HOW WE COLLECT YOUR DATA
 
 1. **Direct Collection**: We gather data you provide when applying to become a member of METI, using METI services, and communicating with us.
 2. **Indirect Collection**: MillPont uses cookies and similar technologies to enhance user experience and service functionality. This includes the use web server logs and similar tools to help diagnose problems with the server, to administer the website, and to enhance security or authenticate users.
 3. **Third-Party Sources**: We may receive data from partners and affiliates under strict privacy agreements.
 
-## 4. Choice: Options Concerning Information We Collect&#x20;
+## 4. OPTIONS CONCERNING INFORMATION WE COLLECT
 
 MillPont will not collect or use information for purposes other than those described in this Privacy Policy without your consent. You can decline to submit personal information to any of our services, in which case MillPont may not be able to provide those services to you.&#x20;
 
-## 5. Use of Your Information
+## 5. USE OF YOUR INFORMATION
 
 MillPont uses your data to:
 
@@ -41,7 +41,7 @@ MillPont uses your data to:
 
 In aggregating data, we strip away any personally identifiable information to ensure individual data privacy while still providing valuable collective insights to market stakeholders. &#x20;
 
-## 6. Data Sharing and Disclosure&#x20;
+## 6. DATA SHARING AND DISCLOSURE&#x20;
 
 We do not sell personal data. Data sharing is limited to:
 
@@ -49,7 +49,7 @@ We do not sell personal data. Data sharing is limited to:
 * Legal requirements and law enforcement requests.
 * Business transfers, such as mergers or acquisitions.
 
-## 7. Data Security and Integrity
+## 7. DATA SECURITY AND INTEGRITY
 
 MillPont employs robust security measures, including:
 
@@ -59,7 +59,7 @@ MillPont employs robust security measures, including:
 
 Despite our efforts, no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  In the even of a security incident, we will notify our clients or end-user customers in accordance with applicable law.
 
-## 8. Enhanced Privacy Protection for Geospatial Farmer Data
+## 8. ENHANCED PRIVACY PROTECTION FOR GEOSPATIAL DATA
 
 MillPont recognizes the sensitive nature of geospatial data related to agricultural activities. To ensure the utmost privacy and protection of this information, we implement the following specialized measures:
 
@@ -72,7 +72,7 @@ MillPont recognizes the sensitive nature of geospatial data related to agricultu
 
 By implementing these measures, MillPont ensures that market participant's geospatial data is handled with the highest level of security and confidentiality, reflecting our commitment to protecting the privacy and interests of our agricultural community.
 
-## 9. Your Rights and Choices
+## 9. YOUR RIGHTS AND CHOICES
 
 You have the right to:
 
@@ -80,10 +80,10 @@ You have the right to:
 * Opt out of non-essential data collection.
 * Request data portability.
 
-## 10. Changes to This Policy & Changelog
+## 10. CHANGES TO THIS POLICY AND CHANGELOG
 
 We may update this policy periodically. We maintain a [Changelog](https://millpont.gitbook.io/changelogs/) to keep track of updates to the document. Your continued use of METI services after any changes signifies your acceptance of these changes.&#x20;
 
-## 11. Contact Us
+## 11. CONTACT US
 
 You may contact us regarding the METI Services or this Privacy Policy [info@millpont.com](mailto:info@millpont.com).
