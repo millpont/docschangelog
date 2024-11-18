@@ -2,7 +2,7 @@
 
 ## **What does METI provide that other platforms do not?**
 
-METI is an agricultural industry-first digital claims clearinghouse, utilizing [advance encryption](https://csrc.nist.gov/Presentations/2023/stppa6-iso-iec-fhe) techniques to assign unique identifiers, or “thumbprints,” to data. This ensures data confidentiality while enabling third-party verification, making environmental claims in agricultural supply chains and landscapes credible, comparable, and traceable. Additionally, METI integrates a secure source ledger and a conflict resolution process, reducing duplication of claims across platforms, projects, and registries allowing members to trust the integrity and exclusivity of their environmental claims without compromise.
+METI is an agricultural industry-first digital claims clearinghouse, utilizing [advance encryption](https://csrc.nist.gov/Presentations/2023/stppa6-iso-iec-fhe) techniques to assign unique identifiers, or “thumbprints,” to data. This ensures data confidentiality while enabling third-party verification, making environmental claims in agricultural supply chains and landscapes credible, comparable, and traceable - while privacy preserving. Additionally, METI integrates a strong governance framework and efficient conflict resolution process, reducing duplication of claims across platforms, projects, and registries allowing members to trust the integrity and exclusivity of their environmental claims without compromise.
 
 ## What specific services does METI offer?
 
@@ -15,7 +15,7 @@ METI offers foundational services to support secure environmental claims in agri
 
 ## **What is METI’s business model?**
 
-MillPont operates a membership-based program, METI Originate, with [options](meti-originate-pricing.md) suited for a range of organizational structures and scales:
+MillPont operates a membership-based program, METI Originate, with [options](../operative-documents/meti-originate-pricing.md) suited for a range of organizational structures and scales:
 
 * **Basic:** Ideal for small projects and pilots, offering 100 secure sources per year, with an option to add more at a per-source fee.
 * **Standard:** For growing businesses, including 15,000 secure sources and API access with scalable fees for additional sources.
@@ -23,7 +23,7 @@ MillPont operates a membership-based program, METI Originate, with [options](met
 
 ## What data does METI store, and what measures does it take to protect data?
 
-METI stores essential metadata related to the [Source](meti-originate-fact-sheet.md#what-are-secure-source-ids-ssids) of environmental benefits, such as the geospatial and temporal extent of a project claim (e.g., a field from an agricultural project from 2020 to 2030). Each source is unique per environmental attribute (e.g., carbon, biodiversity), mitigating duplicated assets. METI only stores data needed for uniqueness and provenance, preserving privacy and competitive information, while promoting transparency with easy validation and verification.&#x20;
+METI stores essential metadata related to the [Source](frequently-asked-questions.md#what-are-secure-source-ids-ssids) of environmental benefits, such as the geospatial and temporal extent of a project claim (e.g., a field from an agricultural project from 2020 to 2030). Each source is unique per environmental attribute (e.g., carbon, biodiversity), mitigating duplicated assets. METI only stores data needed for uniqueness and provenance, preserving privacy and competitive information, while promoting transparency with easy validation and verification.&#x20;
 
 To safeguard and handle data, MillPont has developed proprietary applications of  [Fully Homomorphic Encryption (FHE)](https://csrc.nist.gov/Presentations/2023/stppa6-iso-iec-fhe), an advanced encryption technology allowing computations on encrypted data without exposing  [Personally Identifiable Information (PII)](https://www.nrcs.usda.gov/sites/default/files/2022-10/Safeguarding\_PII\_Fact\_Sheet\_Fillable\_1\_3\_22.pdf). This means that METI can securely process and validate environmental claims without compromising individual privacy or disclosing sensitive project information. By using advanced encryption, METI maintains data integrity and transparency for verification while ensuring that personal and location-specific details remain protected and private.
 
@@ -35,7 +35,7 @@ Blockchain tokenization can be powerful but does not inherently prevent double-c
 
 ## Who is a Custodian?
 
-A Custodian holds ownership or administrative authority over the data required to produce, and or underwrite, an environmental asset connected to Secure Source IDs (SSIDs) and Environmental Attribute Certificates (EACs). Custodians, typically project developers or program administrators, are responsible for the management of SSIDs and issuance of EACs, ensuring claims data is governed with the highest standards of accountability and exclusivity.
+A Custodian holds ownership and or administrative authority over the data required to produce, and or underwrite, an environmental asset connected to Secure Source IDs (SSIDs) and Environmental Attribute Certificates (EACs). Custodians, typically project developers or program administrators, are responsible for the management of SSIDs and issuance of EACs, ensuring claims data is governed with the highest standards of accountability and exclusivity.
 
 ## What are Secure Source IDs (SSIDs)?
 
