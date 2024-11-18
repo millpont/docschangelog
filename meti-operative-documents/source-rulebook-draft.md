@@ -260,7 +260,7 @@ The Source Ledger ensures adherence to all relevant legal and regulatory require
 
 All operations are conducted in accordance with applicable laws and standards across jurisdictions to maintain legal integrity and market trust.
 
-## 4.     Custodian Responsibilities and Requirements
+## 4.     CUSTODIAN RESPONSIBILITIES AND REQUIREMENTS
 
 ### 4.1.   General Responsibilities
 
