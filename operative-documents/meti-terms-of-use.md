@@ -4,6 +4,33 @@ description: V1.1 October 30, 2024
 
 # Terms of Use
 
+**Contents**
+
+1. [DEFINITIONS](meti-terms-of-use.md#id-1.-definitions)
+2. [ACCEPTANCE OF TERMS](meti-terms-of-use.md#id-2.-acceptance-of-terms)
+3. [DESCRIPTION OF SERVICES](meti-terms-of-use.md#id-3.-description-of-services)
+4. [AUTHORIZED USER](meti-terms-of-use.md#id-4.-authorized-user)
+5. [DATA OWNERSHIP AND CONFIDENTIALITY ](meti-terms-of-use.md#id-5.-data-ownership-and-confidentiality)
+6. [DATA OWNERSHIP AND THIRD PARTIES](meti-terms-of-use.md#id-6.-data-ownership-and-third-parties)
+7. [FEES](meti-terms-of-use.md#id-7.-fees)
+8. [PAYMENTS AND TAXES](meti-terms-of-use.md#id-8.-payments-and-taxes)
+9. [LATE PAYMENTS](meti-terms-of-use.md#id-9.-late-payments)
+10. [TERM AND TERMINATION](meti-terms-of-use.md#id-10.-term-and-termination)
+11. [DEFAULT AND REMEDIES](meti-terms-of-use.md#id-11.-default-and-remedies)
+12. [INTELLECTUAL PROPERTY](meti-terms-of-use.md#id-12.-intellectual-property)
+13. [REPRESENTATIONS AND WARRANTIES](meti-terms-of-use.md#id-13.-representations-and-warranties)
+14. [DISCLAIMER AND WARRANTIES ](meti-terms-of-use.md#id-14.-disclaimer-and-warranties)
+15. [LIMITATION OF LIABILITIES](meti-terms-of-use.md#id-15.-limitation-of-liabilities)
+16. [LOGINS, PASSWORDS, and IDS](meti-terms-of-use.md#id-16.-logins-passwords-and-ids)
+17. [INDEMIFICATION](meti-terms-of-use.md#id-17.-indemification)
+18. [FORCE MAJEURE](meti-terms-of-use.md#id-18.-force-majeure)
+19. [NOTICES](meti-terms-of-use.md#id-19.-notices)
+20. [GOVERNING LAW AND DISPUTE RESOLUTION](meti-terms-of-use.md#id-20.-governing-law-and-dispute-resolution)
+21. [ENTIRE AGREEMENT ](meti-terms-of-use.md#id-21.-entire-agreement)
+22. [CONTACT INFORMATION](meti-terms-of-use.md#id-22.-contact-information)
+
+## FROM THE ADMINISTRATION
+
 Welcome to MillPont Environmental Trust Infrastructure ("METI"), operated and administered by MillPont, Inc. ("Administrator"). MillPont is an independent organization that offers workable, global, and practical solutions to ensure the integrity of environmental claims ownership in agricultural supply chains.
 
 METI has been created to facilitate the connection between environmental market operators, registries, marketplaces, and government programs interested in collaborating in the development of systematized market solutions to solve shared challenges related to double-counting, greenwashing, and credibility in climate impact reporting. MillPont has developed, for this purpose, METI, a standardized electronic clearinghouse to allow for the secure exchange of sustainable data. METI is a web-based and cloud-hosted platform featuring a globally accessible public interface, along with secure user accounts that require registration and login for access.
@@ -142,23 +169,33 @@ The Administrator may reinstate access at its discretion if the Account Holder r
 
 The occurrence of any of the following shall be considered a “Default”:
 
-* The Account Holder fails to abide by the Terms or perform any duties or obligations under these Terms, not cured within five (5) days after notice specifying the default.
-* The Account Holder fails to pay any Fees, Taxes, or other charges due within five (5) days of their Due Date.
-* The Account Holder or its Representatives tamper with, damage, or destroy METI or any data of other participants.
-* The Account Holder uses METI in a manner that violates any applicable law.
-* The Account Holder's assets are attached or levied under execution, a petition in bankruptcy is filed, the Account Holder becomes insolvent, or similar financial distress occurs.
-* The Account Holder falsifies or misrepresents any data or information provided to METI.
-* The Account Holder makes false representations in these Terms.
-* The Account Holder violates confidentiality obligations.
-* The Account Holder receives notice of a violation of any material term or condition of the Terms three (3) or more times in any twelve (12) month period.
+**(a)** The Account Holder fails to abide by the Terms or perform any duties or obligations under these Terms, not cured within five (5) days after notice specifying the default.
+
+**(b)** The Account Holder fails to pay any Fees, Taxes, or other charges due within five (5) days of their Due Date.
+
+**(c)** The Account Holder or its Representatives tamper with, damage, or destroy METI or any data of other participants.
+
+**(d)** The Account Holder uses METI in a manner that violates any applicable law.
+
+**(e)** The Account Holder's assets are attached or levied under execution, a petition in bankruptcy is filed, the Account Holder becomes insolvent, or similar financial distress occurs.
+
+**(f)** The Account Holder falsifies or misrepresents any data or information provided to METI.
+
+**(g)** The Account Holder makes false representations in these Terms.
+
+**(h)** The Account Holder violates confidentiality obligations.
+
+**(i)** The Account Holder receives notice of a violation of any material term or condition of the Terms three (3) or more times in any twelve (12) month period.
 
 ### **11.2.** **Remedies**
 
 Upon the occurrence of any Default, the Administrator shall have the following rights and remedies, in addition to those stated elsewhere and those allowed by law or in equity, any one or more of which may be exercised without further notice:
 
-* Injunctive relief to prevent further breaches.
-* Obligation for the Account Holder to pay all monies due, including attorney's fees incurred to enforce rights.
-* Notification to Beneficiaries of erroneous SCIDs and EACs, suspension of the Account, administrative fines, and or prohibition of participation in METI.
+**(a)** Injunctive relief to prevent further breaches.
+
+**(b)** Obligation for the Account Holder to pay all monies due, including attorney's fees incurred to enforce rights.
+
+**(c)** Notification to Beneficiaries of erroneous SCIDs and EACs, suspension of the Account, administrative fines, and or prohibition of participation in METI.
 
 ### **11.3.** **Non-waiver of Defaults**
 
@@ -310,7 +347,7 @@ These Terms, along with any applicable Operative Documents, constitute the entir
 
 ## 22.  CONTACT INFORMATION
 
-**22.1.** For any questions about these Terms, please contact us at:
+For any questions about these Terms, please contact us at:
 
 Email: [info@millpont.com](mailto:info@millpont.com)
 
