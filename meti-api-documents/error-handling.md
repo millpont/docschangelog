@@ -112,8 +112,8 @@ When an error occurs, the response typically includes:
 
 #### Example Response for 401 Unauthorized
 
-```json
-jsonCopy code{
+```http
+{
   "status": 401,
   "message": "Token has expired. Please reauthenticate."
 }
