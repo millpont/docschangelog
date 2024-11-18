@@ -109,3 +109,25 @@ When an error occurs, the response typically includes:
   "message": "Invalid GeoJSON structure. 'type' must be 'FeatureCollection'."
 }
 ```
+
+#### Example Response for 401 Unauthorized
+
+```json
+jsonCopy code{
+  "status": 401,
+  "message": "Token has expired. Please reauthenticate."
+}
+```
+
+***
+
+### Best Practices for Error Handling
+
+1. **Validate Inputs**: Ensure all parameters meet the API's requirements before making a request.
+2. **Handle Expired Tokens**: Implement token refresh logic to avoid interruptions (see [Authentication](authentication.md#steps-for-token-renewal)).
+3. **Retry Logic**: For `5xx` errors, implement exponential backoff to retry requests after a delay.
+4. **Monitor Responses**: Log error responses to identify recurring issues.
+
+***
+
+For additional support, contact the METI team at membership@millpont.com&#x20;
