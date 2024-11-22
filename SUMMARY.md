@@ -17,4 +17,5 @@
 ## METI RESOURCES
 
 * [Introduction Presentation](meti-resources/introduction-presentation.md)
+* [What is a Source?](meti-resources/what-is-a-source.md)
 * [Frequently Asked Questions](meti-resources/frequently-asked-questions.md)

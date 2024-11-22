@@ -16,5 +16,5 @@ Explore the **METI Pricing Calculator** to find the tier that best fits your nee
 
 ## Source Definition  &#x20;
 
-A Source refers to the point of origin of an environmental benefit. For land-based projects, a source is considered an individual contiguous parcel that is the smallest unit of land with 1) A permanent, contiguous boundary, 2) Common land cover and land management, 3) Common ownership or group of owners/land managers, and 4) A common project administrator (i.e. Custodian).
+A Source refers to the point of origin of an environmental benefit. For METI, source is considered an individual contiguous parcel that is the smallest unit of land with 1) A permanent, contiguous boundary, 2) Common land cover and land management, 3) Common ownership or group of owners/land managers, and 4) A common project administrator (i.e. Custodian).
 
