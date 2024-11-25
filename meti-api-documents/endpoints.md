@@ -20,9 +20,9 @@ https://api.meti.millpont.com/
 
 #### Source Management
 
-1. **GET /sources/{id}**: Retrieve details of a single source by its ID.
+1. **GET /sources/?id={id}**: Retrieve details of a single source by its ID.
 2. **POST /sources**: Create a new source using GeoJSON data.
-3. **DELETE /sources/{id}**: Delete a source by its ID.
+3. **DELETE /sources/?id={id}**: Delete a source by its ID.
 
 #### Authentication
 
@@ -30,48 +30,22 @@ https://api.meti.millpont.com/
 
 ***
 
-#### **GET /sources/{id}**
+#### **GET /sources/**?id=**{id}**
 
 Retrieve details of a source by its unique ID.
 
-* **URL**: `https://api.meti.millpont.com/sources/{id}`
+* **URL**: `https://api.meti.millpont.com/sources/`?id=`{id}`
 * **Method**: GET
 * **Headers**:
-  * `Authorization: Bearer <token>`
+  * `Authorization: <token>`
 * **Path Parameters**:
-  * `{id}` (string): The unique ID of the source.
-* **Response**:
-  * **id** (string): The METI-assigned unique identifier for the source.
-  * **internal\_id** (string): The user-provided internal identifier for the source.
-  * **country** (string): The country where the source is located.
-  * **claim\_start** (string): The claim start date and time in UTC (ISO 8601 format).
-  * **claim\_end** (string): The claim end date and time in UTC (ISO 8601 format).
-  * **hectares** (string): The size of the source in hectares (and acres).
-  * **created\_at** (string): The timestamp of when the source was created in UTC.
-  * **conflict** (boolean): Indicates if there is a conflict associated with the source.
-  * **conflicting\_sources** (array): List of conflicting source IDs (if any).
+  * `{id}` (string): The unique ID of the source starting with 'src\_'.
 
 **Example Request**
 
 ```bash
-curl -X GET "https://api.meti.millpont.com/sources/src_6ETupIGAbhjb7" \
+curl -X GET "https://api.meti.millpont.com/sources/?id=src_6ETupIGAbhjb7" \
 -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
-```
-
-**Example Response**
-
-```http
-{
-  "id": "src_6ETupIGAbhjb7",
-  "internal_id": "IA34R56",
-  "country": "United States of America",
-  "claim_start": "2024-11-01T16:25:00+00:00",
-  "claim_end": "2024-11-10T16:25:00+00:00",
-  "hectares": "41.142643914938ha (101.67ac)",
-  "created_at": "2024-11-11T17:13:15.306319+00:00",
-  "conflict": true,
-  "conflicting_sources": ["src_tJsijx0UmuGE9"]
-}
 ```
 
 ***
@@ -84,7 +58,7 @@ Create a new source using GeoJSON data.
 * **Method**: POST
 * **Headers**:
   * `Content-Type: application/json`
-  * `Authorization: Bearer <token>`
+  * `Authorization: <token>`
 * **Body**:
   * A valid GeoJSON FeatureCollection with:
     * **id** (string): Your internal ID (a SSID will also be assigned).
@@ -135,14 +109,14 @@ curl -X POST https://api.meti.millpont.com/sources \
 
 ***
 
-#### **DELETE /sources/{id}**
+#### **DELETE /sources/**?id=**{id}**
 
 Delete a source by its unique ID.
 
-* **URL**: `https://api.meti.millpont.com/sources/{id}`
+* **URL**: `https://api.meti.millpont.com/sources/`?id=`{id}`
 * **Method**: DELETE
 * **Headers**:
-  * `Authorization: Bearer <token>`
+  * `Authorization: <token>`
 * **Path Parameters**:
   * `{id}` (string): The unique ID of the source to delete.
 * **Response**:
@@ -151,7 +125,7 @@ Delete a source by its unique ID.
 **Example Request**
 
 ```bash
-curl -X DELETE "https://api.meti.millpont.com/sources/src_tJsijx0UmuGE9" \
+curl -X DELETE "https://api.meti.millpont.com/sources/?id=src_tJsijx0UmuGE9" \
 -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 ```
 
