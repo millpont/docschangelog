@@ -81,9 +81,9 @@ Buyers (e.g., Nestlé Purina) or third-party auditors authenticate claims via th
 
 ## **Key Benefits**&#x20;
 
-* **Trust and Transparency**: SSIDs provide verifiable assurance of environmental claims ownership.
-* **Scalable Market Integration**: Interoperability ensures compatibility across platforms and industries.
-* **Dynamic Accountability**: SSIDs adapt to updates in environmental outcomes, ensuring continuous relevance.
-* **Efficient Ownership Management**: SSIDs simplify complex transactions by creating a secure, traceable link between Sources and outcomes.
+* **Trust and Transparency**: SSIDs provide verifiable and traceable assurance of environmental claims ownership.
+* **Scalable Market Integration**: Interoperability ensures compatibility across platforms, registries, and value chains.
+* **Dynamic Accountability**: SSIDs adapt to updates in environmental outcomes and ownership, ensuring continuous relevance and detection of conflicts - historically and on an ongoing basis. &#x20;
+* **Efficient Ownership Management**: SSIDs simplify complex transactions by creating a secure, traceable link between Sources and outcomes, ensuring claims are unique, exclusive, and readily auditable.&#x20;
 
-METI empowers stakeholders to connect agricultural value chains with climate markets, fostering a sustainable future. By leveraging SSIDs as digital deeds, METI ensures that environmental claims are not just credible but also verifiable, authentic, and traceable at scale,&#x20;
+METI empowers stakeholders to connect agricultural value chains with climate markets, fostering a sustainable future. By leveraging SSIDs as digital deeds, METI ensures that environmental claims are not just credible but also verifiable, authentic, and traceable at scale. &#x20;
