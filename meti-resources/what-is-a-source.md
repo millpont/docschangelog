@@ -11,7 +11,7 @@ A **Source** refers to the point of origin of an environmental benefit. For METI
 1. **A permanent, contiguous boundary**\
    &#xNAN;_&#x45;xample:_ A 40-acre field used for regenerative grazing, surrounded by roads or fences that clearly define its edges.
 2. **A common land cover and land management**\
-   &#xNAN;_&#x45;xample:_ A cornfield with cover cropping and no-till practices applied across the entire parcel.
+   &#xNAN;_&#x45;xample:_ A corn field with cover cropping and no-till practices applied across the entire parcel.
 3. **Common ownership or group of owners/land managers**\
    &#xNAN;_&#x45;xample:_ A pasture owned by a farming cooperative or managed jointly by a family under a single operational agreement.
 4. **A common project administrator or project proponent (i.e., Custodian)**\
