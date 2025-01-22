@@ -21,3 +21,4 @@
 * [What is a Source?](meti-resources/what-is-a-source.md)
 * [How METI Source Works](meti-resources/how-meti-source-works.md)
 * [Frequently Asked Questions](meti-resources/frequently-asked-questions.md)
+* [Registration Application](meti-resources/registration-application.md)
