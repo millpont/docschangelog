@@ -15,6 +15,12 @@
 * [Endpoints](meti-api-documents/endpoints.md)
 * [Error Handling](meti-api-documents/error-handling.md)
 
+## METI DATA MODEL REFERENCE
+
+* [Source Data Dictionary](meti-data-model-reference/source-data-dictionary.md)
+* [Deposits Data Dictionary](meti-data-model-reference/deposits-data-dictionary.md)
+* [Repositories Data Dictionary](meti-data-model-reference/repositories-data-dictionary.md)
+
 ## METI RESOURCES
 
 * [Introduction Presentation](meti-resources/introduction-presentation.md)
