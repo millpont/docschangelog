@@ -18,8 +18,8 @@
 ## METI DATA MODEL REFERENCE
 
 * [Source Data Dictionary](meti-data-model-reference/source-data-dictionary.md)
-* [Deposits Data Dictionary](meti-data-model-reference/deposits-data-dictionary.md)
-* [Repositories Data Dictionary](meti-data-model-reference/repositories-data-dictionary.md)
+* [Deposits Data Dictionary (Beta)](meti-data-model-reference/deposits-data-dictionary-beta.md)
+* [Repositories Data Dictionary (Beta)](meti-data-model-reference/repositories-data-dictionary-beta.md)
 
 ## METI RESOURCES
 

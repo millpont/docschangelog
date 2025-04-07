@@ -1,9 +1,9 @@
 ---
-description: The 2024 METI Launch Introduction Presentation
+description: 2025 METI Introduction Presentation
 ---
 
 # Introduction Presentation
 
 
 
-{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRLMzRctlpXBl249vxbPGUWyqeD4rfWXpLlvXdiO3IuUvu2bT3poUxg2CWZCoBc8JofaXcsQOpU8gEN/pub?delayms=3000&loop=false&slide=id.g3153d3654c8_0_0&start=false" %}
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRNovfawP9lXjX0CPaeIYSh9wqmLoV8GgN4c9l8zNsxDohLSwE_rZNwQqM2Fq-PcMWUUa8zUtS6YQII/pub?delayms=3000&loop=false&start=false" %}
