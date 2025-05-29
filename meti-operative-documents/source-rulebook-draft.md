@@ -442,17 +442,28 @@ This section outlines procedures and requirements for using the Source Ledger an
 
 **(a) File Type:** GeoJSON format as per [IETF RFC 7946 standards](https://datatracker.ietf.org/doc/html/rfc7946)
 
-**(b) Type:** Must be “FeatureCollection”.
+**(b) Type:** Must be `"FeatureCollection"`&#x20;
 
-**(c) Geometry:** Must be Polygon. METI's use of polygons rather than multipolygons for SSID requests aligns with the need to represent each source as a single, continuous parcel that meets all the defined criteria for uniformity, ownership, and management. This requirement supports the integrity and transparency of the data submission and tracking process within METI’s environmental attribute system.
+**(c) Geometry:** Accepted values: `Polygon` **or** `MultiPolygon`. Submit a **Polygon** when the Source is a single, continuous parcel. Submit a **MultiPolygon** _only_ when every component parcel shares **all** of the following:
 
-**(d) Internal Identifier:** Each SSID request must include an ID parameter that corresponds to the Custodian's identifier used to track polygons (i.e. Sources). The ID provided must be accurate to ensure accurate mapping of sources to each Custodian's internal data and chain of custody documentation.
+&#x20;     **(i)** identical land cover and production/management system;
+
+&#x20;     **(ii)** identical ownership or unified operating agreement;
+
+&#x20;     **(iii)** a single Custodian (project administrator)\
+
+
+If any component differs on these points, file separate Polygon requests. This safeguard preserves traceability, supports conflict checks, and maintains ledger integrity.
+
+**(d) Internal Identifier:** Each feature must contain an `"id"` field that maps unambiguously to the Custodian’s internal Source identifier and chain-of-custody records.
 
 **(e) Properties:**
 
-&#x20;     **(i) Contract Start and End:** Dates in [ISO 8601 format](https://www.iso.org/iso-8601-date-and-time-format.html).
+&#x20;     **(i)** `"contract_start"` and `"contract_end"` - [ISO 8601 format](https://www.iso.org/iso-8601-date-and-time-format.html).
 
-&#x20;     **(ii) Optional Attribute:** Type of environmental attribute (e.g., “carbon”).
+&#x20;     **(ii) Optional** `"attribute_type"` - e.g., `"carbon"`, `"CI"`, `"biodiversity"`.
+
+**Note:** METI treats the entire Polygon or every component of a qualifying MultiPolygon as one [Source](../meti-resources/what-is-a-source.md) for SSID purposes. Submissions that do not meet the uniform-management criteria will be rejected or marked for future resubmission as discrete Polygon features.
 
 _<mark style="color:red;">**5.2.2. Example JSON Structure**</mark>_
 
