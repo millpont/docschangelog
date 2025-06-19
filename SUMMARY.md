@@ -4,7 +4,7 @@
 
 * [Data Privacy Policy](README.md)
 * [Terms of Use](operative-documents/meti-terms-of-use.md)
-* [Source Rulebook (DRAFT)](meti-operative-documents/source-rulebook-draft.md)
+* [Source Rulebook (V0.9)](meti-operative-documents/source-rulebook-v0.9.md)
 * [Membership Fee Schedule](operative-documents/meti-originate-pricing.md)
 * [Declaration of Agency Form](meti-operative-documents/declaration-of-agency-form.md)
 

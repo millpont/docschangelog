@@ -73,7 +73,7 @@ Buyers (e.g., Nestlé Purina) or third-party auditors authenticate claims via th
 
 * SSIDs are **continuously monitored** to:
   * Ensure exclusivity and prevent double-counting.
-  * Verify ongoing compliance with [Rulebook](../meti-operative-documents/source-rulebook-draft.md) standards until the claim’s expiration.
+  * Verify ongoing compliance with [Rulebook](../meti-operative-documents/source-rulebook-v0.9.md) standards until the claim’s expiration.
 {% endstep %}
 {% endstepper %}
 
