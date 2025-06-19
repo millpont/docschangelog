@@ -1,10 +1,3 @@
----
-description: >-
-  This METI Source Rulebook is under its first review by the METI Governance
-  Committee. Upon issuance, it will be Preliminary and subject to a 30-day
-  public comment period.
----
-
 # Source Rulebook (V0.9)
 
 **Content**
