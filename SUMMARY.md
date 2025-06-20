@@ -32,3 +32,7 @@
 * [How METI Source Works](meti-resources/how-meti-source-works.md)
 * [Frequently Asked Questions](meti-resources/frequently-asked-questions.md)
 * [Registration Application](meti-resources/registration-application.md)
+
+## Public Notices
+
+* [Source Rulebook Draft 30-day Public Comment](public-notices/source-rulebook-draft-30-day-public-comment.md)
